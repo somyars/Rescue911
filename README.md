@@ -3,9 +3,9 @@ Rescue911 is a county-wide emergency services company that utilizes a call cente
 
 ![Repo List](screenshots/rescue911.PNG)
 
-##Data Flow Diagram
+## Data Flow Diagram
 ### Context Level DFD
-![Repo List](screenshots/contextlevelDFD.PNG)
+![Repo List](screenshots/contextlevelDFD.png)
 
 ### Level 0 - DFD
 ![Repo List](screenshots/level0DFD.PNG)
